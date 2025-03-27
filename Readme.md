@@ -20,3 +20,5 @@ git branch -M main
 git remote add origin git@github.com:Rogonrodrigues3942/mastering_typescript.git
 git push -u origin main
 
+
+path: mastering_typescript
