@@ -5,6 +5,45 @@ Início: 28/03/2025
 ----------------------------------------------------------
 *** Seção 2 : Configurando Ambiente ***
 
+setting-up-environment
+
+Aula 4 - 29/03/2025 - Instalando o VS Code
+
+----------------------------------------------------------
+29/03/2025 - Aula 5 - Conhecendo extensões úteis do VS Code
+
+1 - Material Icon Theme;
+2 - Mithril Emmet;
+3 - ESLint
+4 - Better Comments
+5 - GitLens — Git supercharged
+6 - Tabnine: AI Chat & Autocomplete for JavaScript (Não instalada)
+
+
+----------------------------------------------------------
+29/03/2025 - Aula 6 - Instalando o Node.js
+
+Já tenho instalado.
+Minha versão: 20.15.1
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 7 - Instalando o Git
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 8 - Instalando o TypeScript e criando primeiro código
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 9 - Compilando o TypesScript para versões diferentes
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 10 - entendo o compilador TypeScript 
+
+----------------------------------------------------------
+
 
 ----------------------------------------------------------
 *** Seção 3: Conhecendo os Tipos ***
