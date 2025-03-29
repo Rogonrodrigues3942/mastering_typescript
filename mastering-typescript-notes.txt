@@ -38,7 +38,24 @@ xx/xx/2025 - Aula 8 - Instalando o TypeScript e criando primeiro código
 
 Estava instalado: Version 5.7.3
 
+1 - Instalando o typescript via terminal:
 
+$ npm i -g typescript
+
+
+2 - Verificando a versão do TS:
+
+$ tsc --version
+
+
+3 - Instalando a versão do curso:
+
+$ npm install -g typescript@4.1.3
+ 
+
+4 - Compilando o primeiro arquivo TS, via terminal:
+
+$ tsc primeiro_codigo.ts 
 
 ----------------------------------------------------------
 
