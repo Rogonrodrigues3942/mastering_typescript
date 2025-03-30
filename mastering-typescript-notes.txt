@@ -56,14 +56,22 @@ $ npm install -g typescript@4.1.3
 4 - Compilando o primeiro arquivo TS, via terminal:
 
 $ tsc primeiro_codigo.ts 
+----------------------------------------------------------
+
+30/03/2025 - Aula 9 - Compilando o TypesScript para versões diferentes
+
+Trabalhando com versões antigas do EcmaScript3.
+
+
+Alteração a versão do ES:
+
+Configurando o EcmaScript via terminal. Via terminal.
+
+
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 9 - Compilando o TypesScript para versões diferentes
-
-----------------------------------------------------------
-
-xx/xx/2025 - Aula 10 - entendo o compilador TypeScript 
+30/03/2025 - Aula 10 - entendo o compilador TypeScript 
 
 ----------------------------------------------------------
 
