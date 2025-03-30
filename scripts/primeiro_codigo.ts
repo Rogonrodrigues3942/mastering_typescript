@@ -14,7 +14,7 @@ class Produto{
     valor:number;
     
     // TODO: método construtor - usado para inicialização.
-    constructor( produtoNome, produtoValor){
+    constructor( produtoNome:string, produtoValor:number){
         
         this.nome = produtoNome;
         this.valor = produtoValor;
