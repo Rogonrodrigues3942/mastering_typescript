@@ -68,10 +68,15 @@ Alteração a versão do ES:
 Configurando o EcmaScript via terminal. Via terminal.
 
 
+Aplicando o init para sobrescrever o tsconfig.json
+
+$ tsc --init
 
 ----------------------------------------------------------
 
 30/03/2025 - Aula 10 - entendo o compilador TypeScript 
+
+Rever a aula, importante por que configura o arquivo tsconfig.json.
 
 ----------------------------------------------------------
 
