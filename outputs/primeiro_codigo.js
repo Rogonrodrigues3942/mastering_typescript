@@ -13,3 +13,4 @@ class Produto {
 }
 console.log('==============================================');
 const playstation5 = new Produto('Playstation 5', 5000);
+//# sourceMappingURL=primeiro_codigo.js.map
