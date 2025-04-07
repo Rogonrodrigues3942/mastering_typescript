@@ -113,14 +113,26 @@ rever aula.
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 18 - Enum
+02/04/2025 - Aula 18 - Tuple
+
+Tuple: é um array com os tipos de dados definidos e com quantidade determinada.
+
+Uma tupla é uma estrutura de dados imutável. Isso significa que, uma vez criada, seus elementos não podem ser alterados, adicionados ou removidos.
+
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 19 - Object
+02/04/2025 - Aula 19 - Object
+
+Objeto: armazena valores com a característica chave/valor.
 
 ----------------------------------------------------------
-xx/xx/2025 - Aula 20 - Enum
+07/04/2025 - Aula 20 - Enum
+
+ASSITIDA: 07/04/2025
+EXERCÍCIO: FAZER
+
+Em TypeScript, um enum (abreviação de enumeration) é uma forma simples de criar um conjunto de nomes com valores fixos. Ele ajuda você a dar nomes mais claros para valores que normalmente seriam números ou strings.
 
 ----------------------------------------------------------
 
