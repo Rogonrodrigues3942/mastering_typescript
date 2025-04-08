@@ -129,34 +129,52 @@ Objeto: armazena valores com a característica chave/valor.
 ----------------------------------------------------------
 07/04/2025 - Aula 20 - Enum
 
-ASSITIDA: 07/04/2025
-EXERCÍCIO: FAZER
+ASSISTIDA: 07/04/2025
+EXERCÍCIO: 07/04/2025
 
 Em TypeScript, um enum (abreviação de enumeration) é uma forma simples de criar um conjunto de nomes com valores fixos. Ele ajuda você a dar nomes mais claros para valores que normalmente seriam números ou strings.
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 21 - Null and Undefined
+08/04/2025 - Aula 21 - Null and Undefined
+
+
+ASSISTIDA: 08/04/2025
+EXERCÍCIO: 08/04/2025
+
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 22 - Any
+08/04/2025 - Aula 22 - Any
 
+ASSISTIDA: xx/xx/2025
+EXERCÍCIO: xx/xx/2025
+
+
+Suporta qualquer tipo de dado. 
 ----------------------------------------------------------
 
 xx/xx/2025 - Aula 23 - Unknown
 
+ASSISTIDA: xx/xx/2025
+EXERCÍCIO: xx/xx/2025
 ----------------------------------------------------------
 xx/xx/2025 - Aula 24 - Void
 
+ASSISTIDA: xx/xx/2025
+EXERCÍCIO: xx/xx/2025
 ----------------------------------------------------------
 
 xx/xx/2025 - Aula 25 - Never
 
+ASSISTIDA: xx/xx/2025
+EXERCÍCIO: xx/xx/2025
 ----------------------------------------------------------
 
 xx/xx/2025 - Aula 26 - Afirmações de Tipos
 
+ASSISTIDA: xx/xx/2025
+EXERCÍCIO: xx/xx/2025
 ----------------------------------------------------------
 
 
