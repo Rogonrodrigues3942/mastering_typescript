@@ -147,8 +147,8 @@ EXERCÍCIO: 08/04/2025
 
 08/04/2025 - Aula 22 - Any
 
-ASSISTIDA: xx/xx/2025
-EXERCÍCIO: xx/xx/2025
+ASSISTIDA: 08/04/2025
+EXERCÍCIO: 08/04/2025
 
 
 Suporta qualquer tipo de dado. 
