@@ -156,8 +156,15 @@ Suporta qualquer tipo de dado.
 
 xx/xx/2025 - Aula 23 - Unknown
 
-ASSISTIDA: xx/xx/2025
-EXERCÍCIO: xx/xx/2025
+Tipo desconhecido (unknown).
+
+Usar quando não saberá o retorno de uma massa de dados. Por exemplo a integração com uma API.
+
+ASSISTIDA: 15/04/2025
+EXERCÍCIO: 15/04/2025
+
+O tipo unknown não pode ser atribuído diretamente a outro tipo (como number), porque ele é "desconhecido". O TypeScript quer ter certeza que você verificou ou confirmou o tipo antes de usar — diferente do any, que deixa passar mesmo que esteja errado.
+
 ----------------------------------------------------------
 xx/xx/2025 - Aula 24 - Void
 
@@ -186,12 +193,17 @@ EXERCÍCIO: xx/xx/2025
 ----------------------------------------------------------
 *** Seção 4: Funções TypeScript ***
 
+
+*** Fim da seção 4
 ----------------------------------------------------------
 *** Seção 5: Interfaces ***
 
+
+*** Fim da seção 5
 ----------------------------------------------------------
 *** Seção 6: Orientação a Objetos ***
 
+*** Fim da seção 6
 ----------------------------------------------------------
 *** Seção 7: Módulos ***
 
