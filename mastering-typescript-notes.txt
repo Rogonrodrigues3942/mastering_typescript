@@ -154,7 +154,7 @@ EXERCÍCIO: 08/04/2025
 Suporta qualquer tipo de dado. 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 23 - Unknown
+15/04/2025 - Aula 23 - Unknown
 
 Tipo desconhecido (unknown).
 
