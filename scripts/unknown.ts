@@ -13,7 +13,7 @@ const informacao: any = 150;
 const informacaoDesconhecida: unknown = 250;
 
 const primeiroNumero: number = informacao;
-const segundoNumero: number = informacaoDesconhecida;
+// const segundoNumero: number = informacaoDesconhecida;
 
 console.log(primeiroNumero);
-console.log(segundoNumero);
+// console.log(segundoNumero);

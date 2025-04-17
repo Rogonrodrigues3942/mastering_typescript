@@ -9,7 +9,7 @@ console.log('----------------------------------------------');
 const informacao = 150;
 const informacaoDesconhecida = 250;
 const primeiroNumero = informacao;
-const segundoNumero = informacaoDesconhecida;
+// const segundoNumero: number = informacaoDesconhecida;
 console.log(primeiroNumero);
-console.log(segundoNumero);
+// console.log(segundoNumero);
 //# sourceMappingURL=unknown.js.map
