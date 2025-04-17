@@ -174,10 +174,12 @@ EXERCÍCIO: 17/04/2025
 Void é usado para funções, mas não retorno dados. Aplicar em funções que são criadas pelo usuário.
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 25 - Never
+17/04/2025 - Aula 25 - Never
 
-ASSISTIDA: xx/xx/2025
-EXERCÍCIO: xx/xx/2025
+ASSISTIDA: 17/04/2025
+EXERCÍCIO: 17/04/2025
+
+
 ----------------------------------------------------------
 
 xx/xx/2025 - Aula 26 - Afirmações de Tipos
