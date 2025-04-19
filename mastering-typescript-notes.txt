@@ -182,28 +182,76 @@ EXERCÍCIO: 17/04/2025
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 26 - Afirmações de Tipos
+18/04/2025 - Aula 26 - Afirmações de Tipos
 
-ASSISTIDA: xx/xx/2025
-EXERCÍCIO: xx/xx/2025
-----------------------------------------------------------
-
+ASSISTIDA: 18/04/2025
+EXERCÍCIO: 18/04/2025
 
 
-
-
-
-*** Fim da seção 3
+*** Fim da seção 3 18/04/2025
 ----------------------------------------------------------
 *** Seção 4: Funções TypeScript ***
 
+19/04/2025 - Aula 27 - Tipagem nos parâmetros e retorno de funções
 
-*** Fim da seção 4
+ASSISTIDA: 19/04/2025
+EXERCÍCIO: 19/04/2025
+
 ----------------------------------------------------------
+
+19/04/2025 - Aula 28 - Parâmetros com valor padrão ou opcional
+
+ASSISTIDA: 19/04/2025
+EXERCÍCIO: 19/04/2025
+
+----------------------------------------------------------
+19/04/2025 - Aula 29 - Rest Parameters
+
+ASSISTIDA: 19/04/2025
+EXERCÍCIO: 19/04/2025
+
+*** Fim da seção 4 - 19/04/2025
+----------------------------------------------------------
+
 *** Seção 5: Interfaces ***
 
+xx/xx/2025 - Aula 30 - O que é uma interface e como criá-la.
 
-*** Fim da seção 5
+ASSISTIDA: xx/xx/2025
+EXERCÍCIO: xx/xx/2025
+
+----------------------------------------------------------
+xx/xx/2025 - Aula 31 - Propriedades opcionais.
+
+ASSISTIDA: xx/xx/2025
+EXERCÍCIO: xx/xx/2025
+
+----------------------------------------------------------
+xx/xx/2025 - Aula 32 - Propriedades readonly.
+
+ASSISTIDA: xx/xx/2025
+EXERCÍCIO: xx/xx/2025
+
+----------------------------------------------------------
+xx/xx/2025 - Aula 33 - Funções em interfaces.
+
+ASSISTIDA: xx/xx/2025
+EXERCÍCIO: xx/xx/2025
+
+----------------------------------------------------------
+xx/xx/2025 - Aula 34 - Arrays em interfaces.
+
+ASSISTIDA: xx/xx/2025
+EXERCÍCIO: xx/xx/2025
+
+----------------------------------------------------------
+xx/xx/2025 - Aula 35 - Estendendo interfaces
+
+ASSISTIDA: xx/xx/2025
+EXERCÍCIO: xx/xx/2025
+
+
+*** Fim da seção 5 - xx/xx/2025.
 ----------------------------------------------------------
 *** Seção 6: Orientação a Objetos ***
 
