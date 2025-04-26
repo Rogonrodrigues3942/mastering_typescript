@@ -215,22 +215,53 @@ EXERCÍCIO: 19/04/2025
 
 *** Seção 5: Interfaces ***
 
-xx/xx/2025 - Aula 30 - O que é uma interface e como criá-la.
+23/04/2025 - Aula 30 - O que é uma interface e como criá-la.
 
-ASSISTIDA: xx/xx/2025
-EXERCÍCIO: xx/xx/2025
+ASSISTIDA: 23/04/2025
+EXERCÍCIO: 25/04/2025
+
+O que é uma interface em TypeScript?
+Interface é como um molde ou modelo que define como um objeto deve ser.
+
+- Interface ajuda a:
+
+a. Organizar o código
+
+b. Evitar erros
+
+c. Tornar seu projeto mais fácil de entender
+
+Cria-se um padrão e obriga a seguir o padrão.
 
 ----------------------------------------------------------
-xx/xx/2025 - Aula 31 - Propriedades opcionais.
+25/04/2025 - Aula 31 - Propriedades opcionais.
 
-ASSISTIDA: xx/xx/2025
-EXERCÍCIO: xx/xx/2025
+Deteminar uma propriedade como opcional. 
+
+Para torna a propriedade opcional, insira o ponto de interrogação após nome da propriedade: "nome_propriedade? : valor". 
+
+Exemplo: 
+
+interface IEndereco{
+
+    logradouro: string;
+    numero?: number;
+    bairro: string;
+    cidade: string;
+
+}
+
+
+Observe que a propriedade numero se tornou opcional, deve pode ou não ser declarada.
+
+ASSISTIDA: 25/04/2025
+EXERCÍCIO: 25/04/2025
 
 ----------------------------------------------------------
-xx/xx/2025 - Aula 32 - Propriedades readonly.
+25/04/2025 - Aula 32 - Propriedades readonly.
 
-ASSISTIDA: xx/xx/2025
-EXERCÍCIO: xx/xx/2025
+ASSISTIDA: 25/04/2025
+EXERCÍCIO: 25/04/2025
 
 ----------------------------------------------------------
 xx/xx/2025 - Aula 33 - Funções em interfaces.
