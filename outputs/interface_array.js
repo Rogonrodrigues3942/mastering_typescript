@@ -11,7 +11,7 @@ let menu = {
     categorias: [frontEnd, backEnd]
 };
 let minhasTarefas;
-minhasTarefas = ['Estudar TS', 'Estudar JS', 'Estudar PHP8', 20, true];
+minhasTarefas = ['Estudar TS', 'Estudar JS', 'Estudar PHP8', 20, true, frontEnd, { nome: 'JS', id: 3, categoriaPai: frontEnd }];
 console.log(minhasTarefas);
 console.log(minhasTarefas[0]);
 console.log(minhasTarefas[4]);
