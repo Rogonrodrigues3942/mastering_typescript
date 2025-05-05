@@ -22,3 +22,13 @@ let menu: IMenu = {
 
     categorias : [frontEnd, backEnd]
 };
+
+interface IToDo{
+    [indece: number]: string;
+}
+
+let minhasTarefas: IToDo;
+minhasTarefas = [ 'Estudar TS', 'Estudar JS', 'Estudar PHP8'];
+
+console.log(minhasTarefas);
+console.log(minhasTarefas[0]);

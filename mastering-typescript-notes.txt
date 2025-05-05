@@ -274,7 +274,7 @@ Só sabem pedir estrelinhas. Dá o curso! Se o curso que eu estudo for legal, o 
 ----------------------------------------------------------
 26/04/2025 - Aula 34 - Arrays em interfaces.
 
-ASSISTIDA: 26/04/2025
+ASSISTIDA: 05/05/2025
 EXERCÍCIO: xx/xx/2025
 
 ----------------------------------------------------------

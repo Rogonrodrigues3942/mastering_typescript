@@ -10,4 +10,8 @@ const backEnd = {
 let menu = {
     categorias: [frontEnd, backEnd]
 };
+let minhasTarefas;
+minhasTarefas = ['Estudar TS', 'Estudar JS', 'Estudar PHP8'];
+console.log(minhasTarefas);
+console.log(minhasTarefas[0]);
 //# sourceMappingURL=interface_array.js.map
