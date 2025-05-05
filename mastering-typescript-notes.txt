@@ -266,13 +266,15 @@ EXERCÍCIO: 25/04/2025
 ----------------------------------------------------------
 26/04/2025 - Aula 33 - Funções em interfaces.
 
-ASSISTIDA: xx/xx/2025
-EXERCÍCIO: xx/xx/2025
+ASSISTIDA: 26/04/2025
+EXERCÍCIO: 26/04/2025
+
+Só sabem pedir estrelinhas. Dá o curso! Se o curso que eu estudo for legal, o avaliarei bem e mais indico para fazer para amigos e colegas. Muito chato! Não tem uma aula sem pedir estrelas.
 
 ----------------------------------------------------------
-xx/xx/2025 - Aula 34 - Arrays em interfaces.
+26/04/2025 - Aula 34 - Arrays em interfaces.
 
-ASSISTIDA: xx/xx/2025
+ASSISTIDA: 26/04/2025
 EXERCÍCIO: xx/xx/2025
 
 ----------------------------------------------------------
