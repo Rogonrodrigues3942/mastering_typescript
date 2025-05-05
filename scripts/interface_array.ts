@@ -24,11 +24,12 @@ let menu: IMenu = {
 };
 
 interface IToDo{
-    [indece: number]: string;
+    [indece: number]: string | number | boolean;
 }
 
 let minhasTarefas: IToDo;
-minhasTarefas = [ 'Estudar TS', 'Estudar JS', 'Estudar PHP8'];
+minhasTarefas = [ 'Estudar TS', 'Estudar JS', 'Estudar PHP8', 20, true];
 
 console.log(minhasTarefas);
 console.log(minhasTarefas[0]);
+console.log(minhasTarefas[4]);

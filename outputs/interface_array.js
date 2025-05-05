@@ -11,7 +11,8 @@ let menu = {
     categorias: [frontEnd, backEnd]
 };
 let minhasTarefas;
-minhasTarefas = ['Estudar TS', 'Estudar JS', 'Estudar PHP8'];
+minhasTarefas = ['Estudar TS', 'Estudar JS', 'Estudar PHP8', 20, true];
 console.log(minhasTarefas);
 console.log(minhasTarefas[0]);
+console.log(minhasTarefas[4]);
 //# sourceMappingURL=interface_array.js.map
