@@ -275,16 +275,16 @@ Só sabem pedir estrelinhas. Dá o curso! Se o curso que eu estudo for legal, o 
 26/04/2025 - Aula 34 - Arrays em interfaces.
 
 ASSISTIDA: 05/05/2025
-EXERCÍCIO: xx/xx/2025
+EXERCÍCIO: 05/05/2025
 
 ----------------------------------------------------------
-xx/xx/2025 - Aula 35 - Estendendo interfaces
+05/05/2025 - Aula 35 - Estendendo interfaces
 
-ASSISTIDA: xx/xx/2025
-EXERCÍCIO: xx/xx/2025
+ASSISTIDA: 05/05/2025
+EXERCÍCIO: 06/05/2025
 
 
-*** Fim da seção 5 - xx/xx/2025.
+*** Fim da seção 5 - 06/05/2025.
 ----------------------------------------------------------
 *** Seção 6: Orientação a Objetos ***
 
