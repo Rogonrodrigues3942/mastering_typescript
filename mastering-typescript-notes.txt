@@ -362,8 +362,8 @@ EXERCÍCIO: 29/05/2025
 
 30/05/2025 - Aula 40 - Encapsulamento public.
 
-ASSISTIDA: 30/04/2025
-EXERCÍCIO: xx/xx/2025
+ASSISTIDA: 30/05/2025
+EXERCÍCIO: 31/05/2025
 
 Permiti diferentes níveis de acessos para atributos e métodos de uma classe. Para manipular os elementos de uma classe, são utilizados modificadores de acesso (getters e setters).
 
@@ -373,16 +373,18 @@ O encapsulamento proteja e mantém a integridade das informações.
 Níves de acesso;
 
 - public;
-- protected; (somente a classe e seus elementos acessam os atributos e métodos)
+- protected; (somente a classe e seus elementos acessam os atributos e métodos e seus herdeiros.)
 - private; (somente o escopo da classe e seus elementos acessam os atributos e métodos)
-- readonly;
+- readonly ( Leitura de somente dos atributos e não tem acesso ao métodos);
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 41 - Encapsulamento protected.
+31/05/2025 - Aula 41 - Encapsulamento protected.
 
-ASSISTIDA: xx/xx/2025
-EXERCÍCIO: xx/xx/2025
+ASSISTIDA: 31/05/2025
+EXERCÍCIO: 31/05/2025
+
+
 
 ----------------------------------------------------------
 
