@@ -288,104 +288,161 @@ EXERCÍCIO: 06/05/2025
 ----------------------------------------------------------
 *** Seção 6: Orientação a Objetos ***
 
-xx/xx/2025 - Aula 36 - 
+12/05/2025 - Aula 36 -  O que é a POO (Programação Orientada a Objetos)
+
+ASSISTIDA: 12/05/2025
+EXERCÍCIO: 12/05/2025
+
+Programação orientada a objetos, sem baseia construir códigos utilizando elementos do mundo real como base; abstraindo características e ações do objeto utilizado como base.
+
+Características => atributos
+Ações => métodos
+
+Classe é um conjunto de atributos e métodos que constituem uma classe.
+
+Um objeto é uma instância de uma classe.
+
+Encapsulamento -> criar uma proteção, controlando como acessar um objeto.
+
+Polimorfismo -> duas ações com mesmo, recebendo parâmetros e ações diferentes 
+
+Abstração -> abstrair estrutura de uma classe (modelo), isso não torna uma classe mas, ela serve de mmodelo para outras classe que derivam da abstração.
+
+
+----------------------------------------------------------
+13/05/2025 - Aula 37 - Criando a primeira classe.
+
+ASSISTIDA: 13/05/2025
+EXERCÍCIO: xx/xx/2025
+
+palavra reservada: class
+
+Nomes de classes devem começar com caixa alta, letra maiúscula.
+
+Classes são formadas por: atributos e métodos.
+
+Atributos são semelhantes a variáveis.
+
+Métodos são semelhantes a métodos.
+
+Tem constructor, deve ser declarado como método constructor, para inicializar os atributos.
+
+----------------------------------------------------------
+
+15/05/2025 - Aula 38 - Criando métodos.
+
+ASSISTIDA: 15/05
+/2025 - 
+EXERCÍCIO: xx/xx/2025
+
+----------------------------------------------------------
+
+22/05/2025 - Aula 39 - Herança.
+
+Definição:
+
+O conceito de herança permite que uma classe herde recursos de outra classe.
+
+A classe que compartilha seus recursos, é denominada classe pai.
+
+A classe que herda os recursos de outra classe, é denominada classe filha.
+
+Usar a palavra reservada "extends" para classe filha se torna herdeira da classe pai.
+
+O constructor da classe filha precisa ter a invocação da classe pai com método "super(params)".
+
+O método "super()" deve ser invocado antes dos parâmetros da classe filha. Não esqueca declarar os atributos da classe pai nos métodos "constructor" e "super"!
+
+Na instância de novos objetos deve-se declarar todos os parâmetros.
+
+ASSISTIDA: 22/05/2025
+EXERCÍCIO: 29/05/2025
+
+----------------------------------------------------------
+
+30/05/2025 - Aula 40 - Encapsulamento public.
+
+ASSISTIDA: 30/04/2025
+EXERCÍCIO: xx/xx/2025
+
+Permiti diferentes níveis de acessos para atributos e métodos de uma classe. Para manipular os elementos de uma classe, são utilizados modificadores de acesso (getters e setters).
+
+O encapsulamento proteja e mantém a integridade das informações.
+
+
+Níves de acesso;
+
+- public;
+- protected; (somente a classe e seus elementos acessam os atributos e métodos)
+- private; (somente o escopo da classe e seus elementos acessam os atributos e métodos)
+- readonly;
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 41 - Encapsulamento protected.
 
 ASSISTIDA: xx/xx/2025
 EXERCÍCIO: xx/xx/2025
 
 ----------------------------------------------------------
-xx/xx/2025 - Aula 37 - 
+
+xx/xx/2025 - Aula 42 - Encapsulamento private.
 
 ASSISTIDA: xx/xx/2025
 EXERCÍCIO: xx/xx/2025
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 38 - 
+xx/xx/2025 - Aula 43 - Encapsulamento - Private no TypeScript x ECMAScript.
 
 ASSISTIDA: xx/xx/2025
 EXERCÍCIO: xx/xx/2025
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 39 - 
+xx/xx/2025 - Aula 44 - Private x Readonly.
 
 ASSISTIDA: xx/xx/2025
 EXERCÍCIO: xx/xx/2025
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 40 - 
+xx/xx/2025 - Aula 45 - Simplificando método construtor.
 
 ASSISTIDA: xx/xx/2025
 EXERCÍCIO: xx/xx/2025
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 41 - 
+xx/xx/2025 - Aula 46 - Métodos getters e setters.
 
 ASSISTIDA: xx/xx/2025
 EXERCÍCIO: xx/xx/2025
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 42 - 
+xx/xx/2025 - Aula 47 - Propriedades e métodos estáticos.
 
 ASSISTIDA: xx/xx/2025
 EXERCÍCIO: xx/xx/2025
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 43 - 
+xx/xx/2025 - Aula 48 -  Polimorfismo
 
 ASSISTIDA: xx/xx/2025
 EXERCÍCIO: xx/xx/2025
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 44 - 
+xx/xx/2025 - Aula 49 - Classes abstratas
 
 ASSISTIDA: xx/xx/2025
 EXERCÍCIO: xx/xx/2025
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 45 - 
-
-ASSISTIDA: xx/xx/2025
-EXERCÍCIO: xx/xx/2025
-
-----------------------------------------------------------
-
-xx/xx/2025 - Aula 46 - 
-
-ASSISTIDA: xx/xx/2025
-EXERCÍCIO: xx/xx/2025
-
-----------------------------------------------------------
-
-xx/xx/2025 - Aula 47 - 
-
-ASSISTIDA: xx/xx/2025
-EXERCÍCIO: xx/xx/2025
-
-----------------------------------------------------------
-
-xx/xx/2025 - Aula 48 - 
-
-ASSISTIDA: xx/xx/2025
-EXERCÍCIO: xx/xx/2025
-
-----------------------------------------------------------
-
-xx/xx/2025 - Aula 49 - 
-
-ASSISTIDA: xx/xx/2025
-EXERCÍCIO: xx/xx/2025
-
-----------------------------------------------------------
-
-xx/xx/2025 - Aula 50 - 
+xx/xx/2025 - Aula 50 - Implementando interface em uma classe.
 
 ASSISTIDA: xx/xx/2025
 EXERCÍCIO: xx/xx/2025
