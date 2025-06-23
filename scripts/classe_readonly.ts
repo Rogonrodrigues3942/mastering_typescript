@@ -8,6 +8,7 @@ class Usuario{
 const usuario = new Usuario;
 
 console.log(usuario.id);
+// console.log(usuario.senha);
 
 // usuario.id = '8907rsa';
 // console.log(usuario.id);
