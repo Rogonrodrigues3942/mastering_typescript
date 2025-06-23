@@ -384,28 +384,36 @@ Níves de acesso;
 ASSISTIDA: 31/05/2025
 EXERCÍCIO: 31/05/2025
 
+Rever a aula. ****
+
+----------------------------------------------------------
+
+02/06/2025 - Aula 42 - Encapsulamento private.
+
+ASSISTIDA: 02/06/2025
+EXERCÍCIO: 05/06/2025
+
+SuiteScript Applications
 
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 42 - Encapsulamento private.
+19/06/2025 - Aula 43 - Encapsulamento - Private no TypeScript x ECMAScript.
 
-ASSISTIDA: xx/xx/2025
-EXERCÍCIO: xx/xx/2025
+ASSISTIDA: 19/06/2025
+EXERCÍCIO: 20/06/2025
 
-----------------------------------------------------------
+Estudar no EcmaScript o meio de acesso private.
 
-xx/xx/2025 - Aula 43 - Encapsulamento - Private no TypeScript x ECMAScript.
 
-ASSISTIDA: xx/xx/2025
-EXERCÍCIO: xx/xx/2025
+
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 44 - Private x Readonly.
+23/06/2025 - Aula 44 - Private x Readonly.
 
-ASSISTIDA: xx/xx/2025
-EXERCÍCIO: xx/xx/2025
+ASSISTIDA: 23/06/2025
+EXERCÍCIO: 23/06/2025
 
 ----------------------------------------------------------
 
