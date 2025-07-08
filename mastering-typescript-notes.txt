@@ -417,31 +417,31 @@ EXERCÍCIO: 23/06/2025
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 45 - Simplificando método construtor.
+23/06/2025 - Aula 45 - Simplificando método construtor.
 
-ASSISTIDA: xx/xx/2025
-EXERCÍCIO: xx/xx/2025
-
-----------------------------------------------------------
-
-xx/xx/2025 - Aula 46 - Métodos getters e setters.
-
-ASSISTIDA: xx/xx/2025
-EXERCÍCIO: xx/xx/2025
+ASSISTIDA: 23/06/2025
+EXERCÍCIO: 23/06/2025
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 47 - Propriedades e métodos estáticos.
+03/07/2025 - Aula 46 - Métodos getters e setters.
 
-ASSISTIDA: xx/xx/2025
-EXERCÍCIO: xx/xx/2025
+ASSISTIDA: 04/07/2025
+EXERCÍCIO: 04/07/2025
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 48 -  Polimorfismo
+06/07/2025 - Aula 47 - Propriedades e métodos estáticos.
 
-ASSISTIDA: xx/xx/2025
-EXERCÍCIO: xx/xx/2025
+ASSISTIDA: 06/07/2025
+EXERCÍCIO: 06/07/2025
+
+----------------------------------------------------------
+
+08/07/2025 - Aula 48 -  Polimorfismo
+
+ASSISTIDA: 08/07/2025
+EXERCÍCIO: 08/07/2025
 
 ----------------------------------------------------------
 
