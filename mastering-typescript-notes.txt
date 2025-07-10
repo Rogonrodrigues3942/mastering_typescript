@@ -431,11 +431,11 @@ EXERCÍCIO: 04/07/2025
 
 ----------------------------------------------------------
 
-06/07/2025 - Aula 47 - Propriedades e métodos estáticos.
+06/07/2025 - Aula 47 - Propriedades e métodos estáticos. 
 
 ASSISTIDA: 06/07/2025
 EXERCÍCIO: 06/07/2025
-
+REVISTA:
 ----------------------------------------------------------
 
 08/07/2025 - Aula 48 -  Polimorfismo
