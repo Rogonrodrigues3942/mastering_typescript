@@ -505,7 +505,7 @@ Obs:
 ASSISTIDA: 03/08/2025
 EXERCÍCIO: 03/08/2025
 
-Um namespaces é uma forma de agrupar código relacionado em um único "espaço de nomes", evitando conflitos de nomes no projeto.
+Um namespaces é uma forma de agrupar códigos relacionados em um único "espaço de nomes" (diretório), evitando conflitos de nomes no projeto.
 
 Aula teórica.
 
@@ -514,9 +514,26 @@ Aula teórica.
 03/08/2025 - Aula 55 - Criando namespaces
 
 ASSISTIDA: 03/08/2025
-EXERCÍCIO: xx/xx/2025
+EXERCÍCIO: 04/08/2025
 
-Presta atenção a aula inteira com o exemplo de como transpilar o arquivo namespace.
+Preste atenção a aula inteira com o exemplo de como transpilar o arquivo namespace.
+
+Criando um sistema de autenticação:
+
+1 - Criando um diretório, nomea-lo como "autenticacao";
+
+2 - Criar um arquivo, nomea-lo como "index.ts". Inserir todos os elmentos do "namespace";
+
+3 - Declarar as classes responsáveis por login, registro e recuperação;
+
+4 - Implantar interfaces para utiliza-los na tipificação dos parâmetros;
+
+5 - Interface estando relacionada com o namespace, deve ser declarada no escopo;
+
+6 - No diretório principal (scripts, também utilizado no "rootDir"), criar o arquivo "autenticacao.ts";
+
+
+
 
 *** Fim da Seção 8: Namespaces - xx/xx/2025***
 ----------------------------------------------------------
