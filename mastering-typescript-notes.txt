@@ -532,6 +532,12 @@ Criando um sistema de autenticação:
 
 6 - No diretório principal (scripts, também utilizado no "rootDir"), criar o arquivo "autenticacao.ts";
 
+7 - Relizar a compilação do ts com o arquivo de entrada e saída: 
+
+'tsc scripts/autenticacao.ts --outFile output/autenticacao.js'
+
+Atenção invoque o arquivo no diretório "output"
+
 
 
 
