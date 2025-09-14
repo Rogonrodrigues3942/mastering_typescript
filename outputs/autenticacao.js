@@ -1,5 +1,5 @@
 "use strict";
-/// <reference path = './autenticacao/index.ts'/>
+/// <reference path = "./autenticacao/index.ts"/>
 const novoRegistro = new Autenticacao.LoginRegistro();
 const acesso = novoRegistro.registro({
     nome: 'José Luís',
