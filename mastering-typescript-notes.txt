@@ -545,6 +545,35 @@ Atenção invoque o arquivo no diretório "output"
 ----------------------------------------------------------
 *** Seção 9: Mixins ***
 
+🔹 O que é um mixin?
+
+Um mixin é um padrão de programação usado para reaproveitar código em várias classes sem precisar de herança múltipla.
+
+
+👉 Em outras palavras:
+É como uma “caixinha de funcionalidades” que você pode misturar dentro de diferentes classes.
+
+
+📌 Onde faz sentido usar?
+
+Quando você tem funcionalidades comuns que podem aparecer em classes diferentes.
+
+Exemplo:
+
+Loggable (adiciona logs)
+
+Serializable (transforma objeto em JSON)
+
+Comparable (adiciona comparação entre objetos)
+
+
+🎯 Resumo
+
+Um mixin é uma forma de compartilhar código entre classes sem precisar usar herança múltipla.
+Ele “mistura” funcionalidades extras em uma classe existente.
+
+
+
 ----------------------------------------------------------
 *** Seção 10: Generics ***
 
