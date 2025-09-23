@@ -610,8 +610,14 @@ EXERCÍCIO: 15/09/225
 
 xx/xx/2025 - Aula 59 - Interfaces Genéricas
 
-ASSISTIDA: xx/xx/2025
+ASSISTIDA: 23/09/2025
 EXERCÍCIO: xx/xx/2025
+
+
+O que é uma interface genérica?
+
+Uma interface genérica é uma interface que recebe um ou mais parâmetros de tipo (como <T>).
+Isso permite criar contratos reutilizáveis e flexíveis, que funcionam com diferentes tipos sem perder a segurança.
 
 ----------------------------------------------------------
 
