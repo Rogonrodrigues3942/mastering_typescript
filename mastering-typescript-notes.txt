@@ -570,13 +570,67 @@ Comparable (adiciona comparação entre objetos)
 🎯 Resumo
 
 Um mixin é uma forma de compartilhar código entre classes sem precisar usar herança múltipla.
+
 Ele “mistura” funcionalidades extras em uma classe existente.
 
-
+*** Fim Seção 9: Mixins ***
+ 
 
 ----------------------------------------------------------
 *** Seção 10: Generics ***
 
+15/09/2025 - Aula 57 - O que são Generis?
+
+🔹 Definição:
+
+Generics são uma forma de criar código reutilizável que funciona com vários tipos diferentes, mas ainda assim mantendo a segurança de tipos.
+
+👉 Em vez de fixar o tipo (ex: string, number), você usa um "parâmetro de tipo" que será definido quando o código for usado.
+
+- O <T> é o parâmetro genérico (pode ser qualquer nome: T, U, etc.).
+
+- Quando chamamos a função, escolhemos o tipo (number, string, etc.).
+
+- Assim, a função funciona para qualquer tipo, mas com checagem de tipos.
+
+
+🎯 Resumindo
+
+Generics = Criar funções, classes ou interfaces que funcionam com qualquer tipo, mas ainda mantendo a segurança do TypeScript.
+
+Eles evitam duplicação de código e tornam o projeto mais flexível e reutilizável.
+
+
+15/09/2025 - Aula 58 - Tipos Genéricos
+
+ASSISTIDA: 15/09/2025
+EXERCÍCIO: 15/09/225
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 59 - Interfaces Genéricas
+
+ASSISTIDA: xx/xx/2025
+EXERCÍCIO: xx/xx/2025
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 60 - Classes Genéricas
+
+ASSISTIDA: xx/xx/2025
+EXERCÍCIO: xx/xx/2025
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 61 - Restrições Genéricas
+
+ASSISTIDA: xx/xx/2025
+EXERCÍCIO: xx/xx/2025
+
+
+
+
+*** Fim da Seção 10: Generics
 ----------------------------------------------------------
 *** Seção 11: Decorators ***
 
