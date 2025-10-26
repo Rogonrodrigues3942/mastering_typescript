@@ -621,17 +621,17 @@ Isso permite criar contratos reutilizáveis e flexíveis, que funcionam com dife
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 60 - Classes Genéricas
+17/10/2025 - Aula 60 - Classes Genéricas
 
-ASSISTIDA: xx/xx/2025
-EXERCÍCIO: xx/xx/2025
+ASSISTIDA: 17/10/2025
+EXERCÍCIO: 17/10/2025
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 61 - Restrições Genéricas
+19/10/2025 - Aula 61 - Restrições Genéricas
 
-ASSISTIDA: xx/xx/2025
-EXERCÍCIO: xx/xx/2025
+ASSISTIDA: 19/10/2025
+EXERCÍCIO: 19/10/2025
 
 
 
@@ -640,7 +640,131 @@ EXERCÍCIO: xx/xx/2025
 ----------------------------------------------------------
 *** Seção 11: Decorators ***
 
+Um decorator é uma forma de adicionar comportamento extra a classes, métodos, propriedades ou parâmetros sem alterar o código original.
+
+21/10/2025 - Aula 62 - O que é um decorator?
+ASSISTIDA: 21/10/2025
+
+Aula teórica, apresentação e conceito.
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 63 - Decorator em classes
+
+ASSISTIDA: 26/10/2025
+EXERCÍCIO: xx/xx/2025
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 64 - Decorator em métodos
+
+ASSISTIDA: xx/xx/2025
+EXERCÍCIO: xx/xx/2025
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 65 - Decorator em atributos.
+
+ASSISTIDA: xx/xx/2025
+EXERCÍCIO: xx/xx/2025
+
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 66 - Decorator em getters e setters.
+
+ASSISTIDA: xx/xx/2025
+EXERCÍCIO: xx/xx/2025
+
+
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 67 - Decorator em parâmetros.
+
+ASSISTIDA: xx/xx/2025
+EXERCÍCIO: xx/xx/2025
+
+
+
+*** Fim da Seção 11: Decorators ***
+
 ----------------------------------------------------------
 *** Seção 12: Projeto - Calculadora com TypeScript ***
 
+
+xx/xx/2025 - Aula 68 - Prévia do Resultado Final
+
+ASSISTIDA: xx/xx/2025
+EXERCÍCIO: xx/xx/2025
+
+
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 69 - Criando a Estrutura do Projeto.
+
+ASSISTIDA: xx/xx/2025
+EXERCÍCIO: xx/xx/2025
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 70 - Classe de Controle da Calculadora.
+
+ASSISTIDA: xx/xx/2025
+EXERCÍCIO: xx/xx/2025
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 71 - Classe de Controle da Data e Hora. 
+
+ASSISTIDA: xx/xx/2025
+EXERCÍCIO: xx/xx/2025
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 72 - Classe de Controle da Tela
+
+ASSISTIDA: xx/xx/2025
+EXERCÍCIO: xx/xx/2025
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 73 - Exibindo números na Calculadora.
+
+ASSISTIDA: xx/xx/2025
+EXERCÍCIO: xx/xx/2025
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 74 - Criando Primeiras Operações
+
+ASSISTIDA: xx/xx/2025
+EXERCÍCIO: xx/xx/2025
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 75 - Calculando Resultado das Operações.
+
+ASSISTIDA: xx/xx/2025
+EXERCÍCIO: xx/xx/2025
+
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 76 - Adicionando números com mais de um digito
+
+ASSISTIDA: xx/xx/2025
+EXERCÍCIO: xx/xx/2025
+
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula xx - Adicionando ou substituindo operadores.
+
+ASSISTIDA: xx/xx/2025
+EXERCÍCIO: xx/xx/2025
+
+
+
+
+*** Fim da Seção 12: Projeto - Calculadora com TypeScript ***
 ----------------------------------------------------------
