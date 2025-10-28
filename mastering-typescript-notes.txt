@@ -659,7 +659,7 @@ EXERCÍCIO: 26/10/2025
 28/10/2025 - Aula 64 - Decorator em métodos
 
 ASSISTIDA: 28/10/2025
-EXERCÍCIO: xx/xx/2025
+EXERCÍCIO: 28/10/2025
 
 ----------------------------------------------------------
 
