@@ -649,16 +649,16 @@ Aula teórica, apresentação e conceito.
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 63 - Decorator em classes
+26/10/2025 - Aula 63 - Decorator em classes
 
 ASSISTIDA: 26/10/2025
 EXERCÍCIO: 26/10/2025
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 64 - Decorator em métodos
+28/10/2025 - Aula 64 - Decorator em métodos
 
-ASSISTIDA: xx/xx/2025
+ASSISTIDA: 28/10/2025
 EXERCÍCIO: xx/xx/2025
 
 ----------------------------------------------------------
