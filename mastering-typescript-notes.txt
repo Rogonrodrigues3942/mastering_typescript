@@ -663,9 +663,9 @@ EXERCÍCIO: 28/10/2025
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 65 - Decorator em atributos.
+31/10/2025 - Aula 65 - Decorator em atributos.
 
-ASSISTIDA: xx/xx/2025
+ASSISTIDA: 31/10/2025
 EXERCÍCIO: xx/xx/2025
 
 
