@@ -666,15 +666,15 @@ EXERCÍCIO: 28/10/2025
 31/10/2025 - Aula 65 - Decorator em atributos.
 
 ASSISTIDA: 31/10/2025
-EXERCÍCIO: xx/xx/2025
+EXERCÍCIO: 31/10/2025
 
 
 ----------------------------------------------------------
 
 xx/xx/2025 - Aula 66 - Decorator em getters e setters.
 
-ASSISTIDA: xx/xx/2025
-EXERCÍCIO: xx/xx/2025
+ASSISTIDA: 03/11/2025
+EXERCÍCIO: 03/11/2025
 
 
 
