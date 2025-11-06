@@ -8,31 +8,30 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
-function decoratorMetodo(target, propertyKey, descriptor) {
-    // console.log({
-    //     target,
-    //     propertyKey,
-    //     descriptor
-    // });
-    console.log(descriptor.value);
-    // console.log(descriptor.get);
-    descriptor.value = (...args) => {
-        return args.map(item => {
-            return item.toUpperCase();
-        });
-    };
+var __param = (this && this.__param) || function (paramIndex, decorator) {
+    return function (target, key) { decorator(target, key, paramIndex); }
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+require("reflect-metadata");
+function decoratorParametros(target, key, propertyKey) {
+    return Reflect.getMetadata("design:paramtypes", target, key).
+        map((item) => console.log(item));
 }
-class TratarMensagem {
-    dizerMensagem(...mensagens) {
-        return mensagens;
-    }
+class TratarParametros {
+    metodo1(mensagem) { }
+    metodo2(numero) { }
 }
 __decorate([
-    decoratorMetodo,
+    __param(0, decoratorParametros),
     __metadata("design:type", Function),
     __metadata("design:paramtypes", [String]),
     __metadata("design:returntype", void 0)
-], TratarMensagem.prototype, "dizerMensagem", null);
-const instancia = new TratarMensagem();
-console.log(instancia.dizerMensagem('Olá!', 'Seja bem-vindo!', 'Curso de decorator TS.'));
-//# sourceMappingURL=decorators_metodo.js.map
+], TratarParametros.prototype, "metodo1", null);
+__decorate([
+    __param(0, decoratorParametros),
+    __metadata("design:type", Function),
+    __metadata("design:paramtypes", [Number]),
+    __metadata("design:returntype", void 0)
+], TratarParametros.prototype, "metodo2", null);
+new TratarParametros();
+//# sourceMappingURL=decorators_parametros.js.map
